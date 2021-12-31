@@ -1,0 +1,39 @@
+Overview
+---
+
+Build Better is a software project that will allow users to track tasks in concert with daily living, habit formation, and one-off tasks.
+It will feature functionality that helps users track tasks they need to do daily, recurring on another basis, or "One-and-done". It will also
+feature functionality beyond simple tracking that allows users to form habits and get greater insight into what has been working well for them
+versus what could use improvement. By providing greater insight into when and what is performed, as well as providing notifications and feedback,
+users can plan their time effectively with Build Better.
+
+Why?
+---
+
+- I want an app that helps me track habits, goals, and one off tasks all in one 
+- I want an app with built-in pomodoro functionality 
+- I want to get more exercise using the MEAN stack 
+
+What?
+---
+
+- A modern web interface and potential mobile application 
+- Users can create their own accounts to track data 
+- Users can create "Categories" of life to focus on - areas they want to improve upon 
+- Users can create "Goals" - higher level objectives which tasks in categories will contribute towards 
+- Users can add "One off" tasks 
+- Application keeps track of how consistently you accomplish tasks 
+- Application helps inform you when you may want to take a break vs. push a bit 
+- Application provides a summary of information relating to how you have been "performing"
+- Application allows you to "take a break" from notifications 
+
+How? 
+---
+
+- Using the MEAN stack 
+- Design the UI
+- Create a testing setup 
+- Build the Frontend using Angular and dummy data 
+- Design the database with MongoDB 
+- Build the backend with Node/Express
+- Deploy via Netlify
