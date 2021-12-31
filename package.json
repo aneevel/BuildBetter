@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aneevel/BuildBetter/issues"
   },
-  "homepage": "https://github.com/aneevel/BuildBetter#readme"
+  "homepage": "https://github.com/aneevel/BuildBetter#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.5",
+    "jest-preset-angular": "^11.0.1"
+  }
 }
